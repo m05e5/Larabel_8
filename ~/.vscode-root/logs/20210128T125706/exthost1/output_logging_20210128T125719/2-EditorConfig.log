@@ -21,3 +21,18 @@ laravel8pro/routes/web.php: Using EditorConfig core...
 routes/web.php: setEndOfLine(LF)
 routes/web.php: editor.action.trimTrailingWhitespace
 routes/web.php: insertFinalNewline(LF)
+laravel8pro/routes/web.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/routes/web.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/users.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/index.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/headers.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/edit-post.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/headers.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/edit-post.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/users.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/edit-post.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/users.blade.php: {"insertSpaces":true,"tabSize":4}
+laravel8pro/resources/views/users.blade.php: Using EditorConfig core...
+resources/views/users.blade.php: setEndOfLine(LF)
+resources/views/users.blade.php: editor.action.trimTrailingWhitespace
+resources/views/users.blade.php: insertFinalNewline(LF)

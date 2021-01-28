@@ -890,3 +890,5 @@
 	at readableAddChunk (_stream_readable.js:275:11)
 	at Socket.Readable.push (_stream_readable.js:210:10)
 	at Pipe.onStreamRead (internal/stream_base_commons.js:166:17)
+[2021-01-28 13:16:02.298] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-01-28 13:16:02.299] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

@@ -20,8 +20,12 @@ use App\Http\Controllers\PostController;
 | contains the "web" middleware group. Now create something great!
 |
 */
+Route::get('/{locale}',function($locale){
+    App::setLocale($locale);
+    return view('welcome');
+});
 
-Route::get('/', [ProductController::class, 'index'])->name('product.index');
+//Route::get('/', [ProductController::class, 'index'])->name('product.index');
 
 Route::get('/home/{name?}', [HomeController::class, 'index'])->name('home.index');
 

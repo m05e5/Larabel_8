@@ -1,0 +1,4 @@
+[2021-01-28 13:25:06.796] [renderer1] [error] Error: [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-01-28 13:25:06.818] [renderer1] [error] [File Watcher (chokidar)] Inotify limit reached (ENOSPC)
+[2021-01-28 14:49:25.834] [renderer1] [error] Unable to read file (Error: File not found (/opt/lampp/htdocs/laravel8pro/resources/lang/hi/pagination.php)): Error: Unable to read file (Error: File not found (/opt/lampp/htdocs/laravel8pro/resources/lang/hi/pagination.php))
+    at S.doReadAsFileStream (file:///usr/share/code/resources/app/out/vs/workbench/workbench.desktop.main.js:1559:715)

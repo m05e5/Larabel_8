@@ -1,0 +1,79 @@
+Looking for git in: git
+Using git 2.7.4 from git
+> git rev-parse --show-toplevel
+> git rev-parse --git-dir
+Open repository: /opt/lampp/htdocs/laravel8pro
+> git status -z -u
+> git show :resources/views/test.blade.php
+> git symbolic-ref --short HEAD
+> git rev-parse master
+> git rev-parse --symbolic-full-name master@{u}
+> git rev-list --left-right master...refs/remotes/origin/master
+> git for-each-ref --format %(refname) %(objectname) --sort -committerdate
+> git remote --verbose
+> git check-ignore -v -z --stdin
+> git config --local branch.master.github-pr-owner-number
+> git config --get commit.template
+> git config --local branch.master.github-pr-owner-number
+> git show :resources/views/test.blade.php
+> git show :resources/views/users.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :app/Http/Controllers/ProductController.php
+> git show :app/Http/Controllers/PaginationController.php
+> git show :resources/views/users.blade.php
+> git ls-files --stage -- resources/views/
+> git show :app/Http/Controllers/PaginationController.php
+> git show :resources/views/users.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :resources/lang/en/message.php
+> git ls-files --stage -- resources/lang/en/
+> git check-ignore -v -z --stdin
+> git check-ignore -v -z --stdin
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git check-ignore -v -z --stdin
+> git show :resources/lang/en/message.php
+> git ls-files --stage -- resources/lang/en/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git check-ignore -v -z --stdin
+> git show :resources/lang/hi/message copy.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message copy.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/auth.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message copy.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/pagination.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/validation.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
+> git show :resources/lang/en/message.php
+> git ls-files --stage -- resources/lang/en/
+> git check-ignore -v -z --stdin
+> git show :resources/views/welcome.blade.php
+> git show :routes/web.php
+> git show :resources/views/welcome.blade.php
+> git show :resources/lang/en/message.php
+> git ls-files --stage -- resources/lang/en/
+> git show :resources/lang/hi/message.php
+> git ls-files --stage -- resources/lang/hi/
