@@ -75,3 +75,15 @@ Route::get('/all-posts',[PostController::class,'getAllPostUsingModel'])->name('p
 Route::get('/test',function(){
     return view('test');
 });
+
+Route::get('/home',function(){
+    return view('index');
+});
+
+Route::get('/about',function(){
+    return view('about');
+});
+
+Route::get('/contact',function(){
+    return view('contact');
+});
