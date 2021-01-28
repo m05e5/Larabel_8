@@ -67,3 +67,21 @@ Use '--' to separate paths from revisions, like this:
 > git remote --verbose
 > git config --get commit.template
 > git config --local branch.master.github-pr-owner-number
+> git show :resources/views/hearders.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git show :routes/web.php
+> git show :resources/views/add-post.blade.php
+> git show :app/Http/Controllers/SessionController.php
+> git show :resources/views/add-post.blade.php
+> git show :.env
+> git show :resources/views/add-post.blade.php
+> git show :resources/views/test.blade.php
+> git show :resources/views/add-post.blade.php
+> git show :resources/views/test.blade.php
+> git show :resources/views/hearders.blade.php
+> git ls-files --stage -- resources/views/
+> git show :resources/views/headers.blade.php
+> git ls-files --stage -- resources/views/
+> git check-ignore -v -z --stdin
+> git show :resources/views/test.blade.php

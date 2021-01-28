@@ -34,3 +34,5 @@
 [2021-01-28 08:59:12.222] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/onecentlin.laravel-blade-1.20.0/out/src/extension
 [2021-01-28 08:59:31.857] [exthost] [info] ExtensionService#_doActivateExtension austenc.laravel-blade-spacer {"startup":false,"extensionId":{"value":"austenc.laravel-blade-spacer","_lower":"austenc.laravel-blade-spacer"},"activationEvent":"*"}
 [2021-01-28 08:59:31.857] [exthost] [info] ExtensionService#loadCommonJSModule file:///home/multicanalservices/.vscode/extensions/austenc.laravel-blade-spacer-2.1.2/out/extension
+[2021-01-28 10:22:37.883] [exthost] [info] ExtensionService#_doActivateExtension vscode.html-language-features {"startup":false,"extensionId":{"value":"vscode.html-language-features","_lower":"vscode.html-language-features"},"activationEvent":"onLanguage:html"}
+[2021-01-28 10:22:37.884] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/html-language-features/client/dist/htmlMain

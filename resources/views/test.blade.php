@@ -1,3 +1,5 @@
+@include('headers')
+
 <h1>test blade</h1>
 
 @php
@@ -5,6 +7,7 @@
 
     $fruits = array('mango', 'apple', 'pineapple', 'banana');
 
+     $age =  11;
 @endphp
 
 
@@ -29,3 +32,7 @@
 @else
     No Fruit
 @endif
+
+<br>
+
+{{ $age >=18 ? 'you are adult' : 'your a kid'  }}
