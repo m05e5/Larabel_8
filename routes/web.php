@@ -6,6 +6,7 @@ use App\Http\Controllers\ProductController;
 use App\Http\Controllers\ClientController;
 use App\Http\Controllers\FluentController;
 use App\Http\Controllers\LoginController;
+use App\Http\Controllers\PaginationController;
 use App\Http\Controllers\SessionController;
 use App\Http\Controllers\PostController;
 
@@ -22,7 +23,7 @@ use App\Http\Controllers\PostController;
 
 Route::get('/', [ProductController::class, 'index'])->name('product.index');
 
-Route::get('/home/{name?}', [HomeController::class, 'index'])->name('home.index'); 
+Route::get('/home/{name?}', [HomeController::class, 'index'])->name('home.index');
 
 Route::get('/user',[UserController::class,'index'])->name('user.index');
 
@@ -76,7 +77,7 @@ Route::get('/test',function(){
     return view('test');
 });
 
-Route::get('/home',function(){
+Route::get('/homes',function(){
     return view('index');
 });
 
@@ -87,3 +88,5 @@ Route::get('/about',function(){
 Route::get('/contact',function(){
     return view('contact');
 });
+
+Route::get('/users',[PaginationController::class,'allUsers']);

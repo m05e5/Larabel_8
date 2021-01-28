@@ -1,0 +1,7 @@
+[2021-01-28 11:03:09.190] [main] [info] update#setState idle
+[2021-01-28 11:03:39.193] [main] [info] update#setState checking for updates
+[2021-01-28 11:03:39.198] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2021-01-28 11:03:39.198] [main] [info] update#setState idle
+[2021-01-28 12:03:39.225] [main] [info] update#setState checking for updates
+[2021-01-28 12:03:39.227] [main] [error] Error: net::ERR_INTERNET_DISCONNECTED
+[2021-01-28 12:03:39.227] [main] [info] update#setState idle
