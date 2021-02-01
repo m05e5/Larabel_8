@@ -1,0 +1,2 @@
+[2021-02-01 08:09:19:430] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show acfb395f8ec33cecc11b51ec4e426747046a1ba7:./resources/views/users.blade.php --): 
+[2021-02-01 08:09:24:158] Warning(/usr/bin/git -c core.quotepath=false -c color.ui=false -c log.showSignature=false show acfb395f8ec33cecc11b51ec4e426747046a1ba7:./resources/views/users.blade.php --): 

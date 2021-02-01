@@ -1,0 +1,7 @@
+[2021-02-01 09:08:47.451] Starting Git Graph ...
+[2021-02-01 09:08:47.629] Using git (version: 2.7.4)
+[2021-02-01 09:08:47.658] > git rev-parse --show-toplevel
+[2021-02-01 09:08:47.671] Showing "Git Graph" Status Bar Item
+[2021-02-01 09:08:47.675] Started Git Graph - Ready to use!
+[2021-02-01 09:08:48.175] Searching workspace for new repos ...
+[2021-02-01 09:08:48.175] Completed searching workspace for new repos

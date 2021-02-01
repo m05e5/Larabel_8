@@ -1,7 +1,7 @@
 <?php
     return [
-        "welcome" => "Laravel8へようこそ",
+        "welcome" => "Laravel 8へようこそ",
         "language" => "日本人"
     ];
-
+ 
 ?>
