@@ -1,0 +1,14 @@
+[2021-02-01 10:18:35.260] [exthost] [info] extension host started
+[2021-02-01 10:18:35.320] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch {"startup":true,"extensionId":{"value":"vscode.debug-auto-launch","_lower":"vscode.debug-auto-launch"},"activationEvent":"*"}
+[2021-02-01 10:18:35.321] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/debug-auto-launch/dist/extension
+[2021-02-01 10:18:35.327] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet {"startup":true,"extensionId":{"value":"vscode.emmet","_lower":"vscode.emmet"},"activationEvent":"*"}
+[2021-02-01 10:18:35.328] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/emmet/dist/extension
+[2021-02-01 10:18:35.347] [exthost] [info] ExtensionService#_doActivateExtension vscode.git {"startup":true,"extensionId":{"value":"vscode.git","_lower":"vscode.git"},"activationEvent":"*"}
+[2021-02-01 10:18:35.348] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/git/dist/main
+[2021-02-01 10:18:35.379] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict {"startup":true,"extensionId":{"value":"vscode.merge-conflict","_lower":"vscode.merge-conflict"},"activationEvent":"*"}
+[2021-02-01 10:18:35.379] [exthost] [info] ExtensionService#loadCommonJSModule file:///usr/share/code/resources/app/extensions/merge-conflict/dist/extension
+[2021-02-01 10:18:35.381] [exthost] [info] ExtensionService#_doActivateExtension EditorConfig.EditorConfig {"startup":true,"extensionId":{"value":"EditorConfig.EditorConfig","_lower":"editorconfig.editorconfig"},"activationEvent":"*"}
+[2021-02-01 10:18:35.381] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/editorconfig.editorconfig-0.14.2/out/editorConfigMain.js
+[2021-02-01 10:18:35.631] [exthost] [info] ExtensionService#_doActivateExtension stef-k.laravel-goto-controller {"startup":true,"extensionId":{"value":"stef-k.laravel-goto-controller","_lower":"stef-k.laravel-goto-controller"},"activationEvent":"*"}
+[2021-02-01 10:18:35.631] [exthost] [info] ExtensionService#loadCommonJSModule file:///root/.vscode/extensions/stef-k.laravel-goto-controller-0.0.12/out/extension
+[2021-02-01 10:18:35.648] [exthost] [info] eager extensions activated

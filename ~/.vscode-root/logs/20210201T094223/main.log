@@ -1,0 +1,4 @@
+[2021-02-01 09:42:24.155] [main] [info] update#setState idle
+[2021-02-01 09:42:54.172] [main] [info] update#setState checking for updates
+[2021-02-01 09:42:54.627] [main] [error] Error: net::ERR_NETWORK_CHANGED
+[2021-02-01 09:42:54.627] [main] [info] update#setState idle
